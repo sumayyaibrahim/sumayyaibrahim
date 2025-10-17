@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumayyaibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="sumayyaibrahim" /> </p>
 
-- 🌱 I’m currently learning **html,css,bootstrap,github,javascript**
+- 🌱 I’m currently working on **html,css,bootstrap,github,javascript,react and stepping to backend**
 
 - 📫 How to reach me **isumayya3@gmail.com**
 
